@@ -41,6 +41,6 @@ c)
 		   VV    VV
 		   ''    ''
 
-4. Store the values "Fortnite " and "is awful" in two variable.  Output them on the same line with two print statements.
+3. Store the values "Fortnite " and "is awful" in two variable.  Output them on the same line with two print statements.
    
-5. Store the values "Don't " and "@ me" in two variables.  Concatenate them together and output using one print statement.
+4. Store the values "Don't " and "@ me" in two variables.  Concatenate them together and output using one print statement.
