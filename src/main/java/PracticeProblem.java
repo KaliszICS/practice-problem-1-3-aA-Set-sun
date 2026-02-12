@@ -65,7 +65,7 @@ c)
 	System.out.println("  *     *");
 	System.out.println("   *   *");
 	System.out.println("    * *");
-	System.out.println("     *\n");
+	System.out.println("     *");
 
 
 	}
@@ -83,7 +83,7 @@ c)
 		   ''    ''
 		*/
 
-		System.out.println("          '__'\n	  (oo)\n  /========//\n / || XX ||\n*  ||----||\n   VV    VV\n   ''    ''");
+		System.out.println("          '__'\n          (oo)\n  /========//\n / || XX ||\n*  ||----||\n   VV    VV\n   ''    ''");
 	}
 
 	public static void q3() {
@@ -96,8 +96,8 @@ c)
 		word1 = "Fortnite";
 		word2 = "is awful";
 
-		System.out.print("\n" + word1);
-		System.out.print(" " + word2 + ".");
+		System.out.print(word1);
+		System.out.print(" " + word2 + "\n");
 
 
 
